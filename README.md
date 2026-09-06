@@ -72,4 +72,4 @@ jupyter notebook
 
 ## Notes
 
-This is a working log, not a polished project — comments are notes to myself on why something behaves the way it does (e.g. which operations return a copy vs. mutate in place). Expect rough edges as I keep adding to it.
+This is a working log, not a polished project — comments are notes to myself on why something behaves the way it does. Expect rough edges as I keep adding to it.
